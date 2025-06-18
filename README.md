@@ -34,6 +34,16 @@ I'm a Computer Science & Engineering student at The Ohio State University, passi
 - **🚨 Example PINN Training Jupyter Notebook** – Hard and soft constrained forward models for 2D Advection-Diffusion problem.
 
 ---
+### 🏆 Achievements
+- 🥇 Top Technical Award - tOSU IBE Pitch Competition
+- 🎓 4.0 GPA | Honors Program | Fisher College of Business Minor
+
+---
+### 📚 Interests
+-  Coding for good, i.e. nonprofits/open source
+-  Applied machine learning
+
+---
 
 ### 🤝 Let's Connect
 - 🔗 [LinkedIn](https://linkedin.com/in/wittenpan)
